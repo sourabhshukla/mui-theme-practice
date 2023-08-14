@@ -8,7 +8,7 @@ function App() {
       <Typography color='primary'>Hello MUI!</Typography>
       <h3>Start Using MUI</h3>
       <Button variant='contained' color='secondary'>
-        hi
+        Hello
       </Button>
       
     </div>
