@@ -17,6 +17,9 @@ const theme = createTheme({
     h3: {
       fontSize: "10rem",
     },
+    myVariant: {
+      fontSize: "5rem",
+    },
     fontSize: 4,
   },
 });
