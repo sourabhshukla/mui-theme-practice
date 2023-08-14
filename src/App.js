@@ -1,9 +1,10 @@
 import "./App.css";
-import { Button, Paper, Typography } from "@mui/material";
+import { Button, CssBaseline, Paper, Typography } from "@mui/material";
 
 function App() {
   return (
     <div className="App">
+      <CssBaseline />
       <Paper>
         <Typography variant="h3">Hello World!</Typography>
         <Typography color="primary">Hello MUI!</Typography>
