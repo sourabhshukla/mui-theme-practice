@@ -7,7 +7,9 @@ function App() {
       <CssBaseline />
       <Paper>
         <Typography variant="h3">Hello World!</Typography>
-        <Typography color="customRibRed.main">Hello MUI!</Typography>
+        <Typography variant="myVariant" color="customRibRed.main">
+          Hello MUI!
+        </Typography>
         <h3>Start Using MUI</h3>
         <Button variant="contained" color="secondary">
           Hello
